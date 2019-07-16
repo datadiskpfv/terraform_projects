@@ -1,0 +1,1 @@
+terraform apply -var RDS_PASSWORD=randompassword123
